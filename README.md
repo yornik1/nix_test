@@ -1,4 +1,3 @@
-# nix_test
 Usage:
 cd nix
 ./manage.py shell
